@@ -1,10 +1,10 @@
 # Streamland Backend
 
-Streamland is a feature-rich movie streaming platform built with modern web technologies. This repository contains the backend code for the [Streamland](https://github.com/immdipu/streamland-frontend) project.
+Streamland is a feature-rich movie streaming platform built with modern web technologies. This repository contains the backend code for the [Streamland](https://github.com/codewithEvilxd/streamland-frontend) project.
 
-[![GitHub stars](https://img.shields.io/github/stars/immdipu/streamland-backend.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/immdipu/streamland-backend/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/immdipu/streamland-backend.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/immdipu/streamland-backend/network/)
-[![GitHub issues](https://img.shields.io/github/issues/immdipu/streamland-backend.svg)](https://GitHub.com/immdipu/streamland-backend/issues/)
+[![GitHub stars](https://img.shields.io/github/stars/codewithEvilxd/streamland-backend.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/codewithEvilxd/streamland-backend/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/codewithEvilxd/streamland-backend.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/codewithEvilxd/streamland-backend/network/)
+[![GitHub issues](https://img.shields.io/github/issues/codewithEvilxd/streamland-backend.svg)](https://GitHub.com/codewithEvilxd/streamland-backend/issues/)
 
 ## ⚠️ Disclaimer
 
@@ -27,7 +27,7 @@ This project is created for educational and practice purposes only. We do not st
 
 ## 🛠 Installation
 
-1. Clone the repository: `git clone https://github.com/immdipu/streamland-backend.git`
+1. Clone the repository: `git clone https://github.com/codewithEvilxd/streamland-backend.git`
 2. Change to the project directory: `cd streamland-backend`
 3. Install the dependencies: `npm install`
 4. Create a `.env` file in the root directory and add the following environment variables:
@@ -54,7 +54,7 @@ We welcome contributions to Streamland! Feel free to open issues and pull reques
 
 ## 🔗 Related Repositories
 
-- [Streamland Frontend](https://github.com/immdipu/streamland-frontend) - The frontend application for Streamland
+- [Streamland Frontend](https://github.com/codewithEvilxd/streamland-frontend) - The frontend application for Streamland
 
 ## 📜 License
 
